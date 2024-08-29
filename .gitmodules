@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "bage"]
+	path = bage
+	url = https://github.com/bayesiandemography/bage
 [submodule "poputils"]
 	path = poputils
 	url = https://github.com/bayesiandemography/poputils
