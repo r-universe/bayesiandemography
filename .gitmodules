@@ -5,6 +5,9 @@
 [submodule "bage"]
 	path = bage
 	url = https://github.com/bayesiandemography/bage
+[submodule "command"]
+	path = command
+	url = https://github.com/bayesiandemography/command
 [submodule "poputils"]
 	path = poputils
 	url = https://github.com/bayesiandemography/poputils
